@@ -191,7 +191,7 @@ streamlit run App.py
 
 **Main Screen**
 
-![Screenshot]()
+![Screenshot](https://github.com/VaishnaviKuldharme13/BEproject/blob/main/Home%20Page.png)
 
 **Resume Analysis**
 
@@ -217,7 +217,7 @@ streamlit run App.py
 
 **Login**
 
-![Screenshot]()
+![Screenshot](https://github.com/VaishnaviKuldharme13/BEproject/blob/main/Home%20Page.png)
 
 **User Count and it's data**
 
